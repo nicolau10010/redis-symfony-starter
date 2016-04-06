@@ -9,9 +9,9 @@ You probably know much more than I do about redis. Take a look here: http://redi
 For Ubuntu, build it from sources:
 
 ```
-wget http://download.redis.io/releases/redis-2.8.19.tar.gz
-tar xzf redis-2.8.19.tar.gz
-cd redis-2.8.19
+wget http://download.redis.io/releases/redis-3.0.7.tar.gz
+tar xzf redis-3.0.7.tar.gz
+cd redis-3.0.7
 make
 sudo make install
 cd utils
