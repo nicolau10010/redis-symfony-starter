@@ -134,4 +134,4 @@ class UserRepository extends EntityRepository
 }
 ```
 
-Yeap, that’s all. Now Doctrine will get countries data from the database for the first time, cache it in Redis for 1 hour and update it again after expiration.
+Yeap, that’s all. Now Doctrine will get users data from the database for the first time, cache it in Redis for 1 hour and update it again after expiration.
