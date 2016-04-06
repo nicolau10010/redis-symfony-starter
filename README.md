@@ -1,4 +1,4 @@
-# redis-symfony-deploy
+# redis-symfony-starter
 Let’s try to configure Doctrine to work with Redis for caching in few steps.
 
 ## Redis?
