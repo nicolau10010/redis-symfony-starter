@@ -1,5 +1,5 @@
 # redis-symfony-starter
-Let’s try to configure Doctrine to work with Redis for caching in few steps.
+Let’s try to configure Doctrine to work with Redis for caching in few steps with Symfony.
 
 ## Redis?
 Redis is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
